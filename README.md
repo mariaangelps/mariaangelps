@@ -1,5 +1,10 @@
-# Hi, I'm Maria Angel Palacios 👩🏻‍💻✨  
+# Hola amigaaa, I'm Maria Angel 👩🏻‍💻✨  
 ### your go-to programmer bestie 💕🌷
+
+<p align="center">
+  <img src="./github_header_v2.png" alt="a girlies girl in CS" width="100%" />
+</p>
+
 
 Computer Science student passionate about building technology that feels useful, creative, and human.  
 I love working with React, designing web experiences, and creating projects that mix innovation, beauty, and purpose.
